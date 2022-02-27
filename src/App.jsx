@@ -1,6 +1,6 @@
 import styled from "@emotion/styled";
 import { useEffect, useState } from "react";
-import ImagenCripto from "../img/imagen-criptos.png";
+import ImagenCripto from "../src/img/imagen-criptos.png";
 import Formulario from "./components/Formulario";
 import Resultado from "./components/Resultado";
 import Spinner from "./components/Spinner";
